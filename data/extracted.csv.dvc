@@ -1,0 +1,5 @@
+outs:
+- md5: 8781031dae0d0diw0900dd890s8w02
+  size: 5089
+  hash: md5
+  path: extracted.csv
